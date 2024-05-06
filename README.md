@@ -2,7 +2,7 @@
 
 I am a third-year computer engineer student at Queen's University interested in AI and entrepreneurship 
 
-🌐 Connect with me on LinkedIn: 
+🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/tomhaklai/
             
           
           
