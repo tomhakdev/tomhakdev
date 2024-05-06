@@ -2,7 +2,9 @@
 
 I am a third-year computer engineer student at Queen's University interested in AI and entrepreneurship 
 
-🌐 Connect with me on LinkedIn: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45" />
+🌐 Connect with me on LinkedIn: 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="45" height="45"/>
+          
           
 📫 Reach me at haklaitom@gmail.com
 
