@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Tom! 👋
+
+I am a third-year computer engineer student at Queen's University interested in AI and entrepreneurship 
+
+🌐 Connect with me on LinkedIn: <i class="devicon-linkedin-plain colored"></i>
+
 
 <!--
 **tomhakdev/tomhakdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
