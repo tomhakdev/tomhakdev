@@ -1,6 +1,6 @@
 ### Hi there, I'm Tom! 👋
 
-I am a third-year computer engineer student at Queen's University interested in AI and entrepreneurship 
+I am a third-year computer engineer student at Queen's University interested in emerging tech and the startup space. 
 
 🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/tomhaklai/
             
