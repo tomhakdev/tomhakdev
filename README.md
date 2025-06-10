@@ -19,9 +19,8 @@ I'm a **3rd-year Computer Engineering student** at **Queen’s University** inte
 ---
 
 ### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/tomhaklai/)
-- 📧 [haklaitom@gmail.com](mailto:haklaitom@gmail.com)
-- 🌐 [Portfolio](https://tomhaklai.com/)
+- Linkedin: (https://www.linkedin.com/in/tomhaklai/)
+- Email: [haklaitom@gmail.com](mailto:haklaitom@gmail.com)
 
 ---
 
@@ -40,9 +39,12 @@ I enjoy **weight lifting**, **aquariums**, reading, and all-you-can-eat **sushi*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/sql-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
+
+</p>
+
 
 </p>
           
