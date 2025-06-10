@@ -1,28 +1,29 @@
-# Hi! I'm Tom Haklai 👋
+# Hi! I'm Tom 👋
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 I'm a **3rd-year Computer Engineering student** at **Queen’s University** interested in AI and cloud infrastructure.
+
+---
 
 ### 🔭 Currently:
 - 🌩 Studying for the **AWS Solutions Architect** certification
 - 🧠 Studying transformers and LLMs
 
-
 ---
 
-## 💼 Experience
+### 💼 Experience
 - **Software Quality Engineering Intern** – *Ford Motor Company*  
 - **User Acceptance Testing Intern** – *Ford Motor Company*  
 - **Software Developer Intern** – *Laboratory for Ethnic Conflict Research*    
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/tomhaklai/)
 - 📧 [haklaitom@gmail.com](mailto:haklaitom@gmail.com)
 - 🌐 [Portfolio](https://tomhaklai.com/)
 
-  
+---
 
 ### 💬 Outside of Tech:
 I enjoy **weight lifting**, **aquariums**, reading, and all-you-can-eat **sushi** 
@@ -39,7 +40,7 @@ I enjoy **weight lifting**, **aquariums**, reading, and all-you-can-eat **sushi*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/sql-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
 
