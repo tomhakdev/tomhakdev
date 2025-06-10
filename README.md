@@ -1,7 +1,7 @@
 # Hi! I'm Tom 👋
 
 ### 👨‍💻 About Me
-I'm a **3rd-year Computer Engineering student** at **Queen’s University** interested in AI and cloud infrastructure.
+I'm a **3rd-year Computer Engineering student** at **Queen’s University** interested in AI, cloud infrastructure and full-stack development.
 
 ---
 
@@ -40,7 +40,7 @@ I enjoy **weight lifting**, **aquariums**, reading, and all-you-can-eat **sushi*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
 
 </p>
