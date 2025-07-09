@@ -12,10 +12,10 @@ I'm a **3rd-year Computer Engineering student** at **Queen’s University** inte
 ---
 
 ### 💼 Experience
-- **Front-end developer** – *Philer AI* 
+- **Front-End Developer** – *Philer AI* 
 - **Software Quality Engineering Intern** – *Ford Motor Company*  
 - **User Acceptance Testing Intern** – *Ford Motor Company*  
-- **Software Developer Intern** – *Laboratory for Ethnic Conflict Research*    
+- **Software Developer** – *Laboratory for Ethnic Conflict Research, Queen's University*    
 
 ---
 
