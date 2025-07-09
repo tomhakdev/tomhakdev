@@ -22,6 +22,7 @@ I'm a **3rd-year Computer Engineering student** at **Queen’s University** inte
 ### 📫 Contact
 - Linkedin: (https://www.linkedin.com/in/tomhaklai/)
 - Email: [haklaitom@gmail.com](mailto:haklaitom@gmail.com)
+- Website: (https://tomhaklai.netlify.app/)
 
 ---
 
@@ -46,7 +47,6 @@ I enjoy **weight lifting**, **aquariums**, reading, and all-you-can-eat **sushi*
 
 </p>
 
-https://tomhaklai.netlify.app/
 </p>
           
           
