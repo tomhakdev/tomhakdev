@@ -1,18 +1,18 @@
-# Hi! I'm Tom 👋
+# Hi, I'm Tom.
 
 ### 👨‍💻 About Me
-I'm a **3rd-year Computer Engineering student** at **Queen’s University**.
+I'm a **Queen’s University** Computer Engineering Student.
+Graduating 2028
 
 ---
 
 ### 🔭 Currently:
-- 🌩 Studying for the **AWS Solutions Architect** certification
-- 🧠 Studying transformers and LLMs
+- Founding Engineer at Lapis Research
+- ML Engineer & Data Scientist at Empire Life
 
 ---
 
-### 💼 Experience
-- **ML Engineering** – *Empire Life*
+### 💼 Previous Experience
 - **Software Quality Engineering** – *Ford Motor Company*
 - **Software Engineer** – *Philer AI*   
 - **Software Engineer** – *Laboratory for Ethnic Conflict Research*    
