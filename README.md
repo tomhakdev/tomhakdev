@@ -1,7 +1,6 @@
 # Hi, I'm Tom.
 
-I'm a **Queen’s University** Computer Engineering Student 👨‍💻.
-Graduating 2028
+I'm a **Queen’s University** Computer Engineering Student set to graduate in 2028.
 
 ---
 
