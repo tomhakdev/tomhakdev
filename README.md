@@ -11,9 +11,9 @@ I'm a **Queen’s University** Computer Engineering Student set to graduate in 2
 ---
 
 ### 💼 Previous Experience
-- **Software Quality Engineering** – *Ford Motor Company*
-- **Software Engineer** – *Philer AI*   
-- **Software Engineer** – *Laboratory for Ethnic Conflict Research*    
+- Software Quality Engineering – *Ford Motor Company*
+- Software Engineer – *Philer AI*   
+- Software Engineer – *Laboratory for Ethnic Conflict Research*    
 
 ---
 
