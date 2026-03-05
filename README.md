@@ -1,7 +1,7 @@
 # Hi! I'm Tom 👋
 
 ### 👨‍💻 About Me
-I'm a **3rd-year Computer Engineering student** at **Queen’s University** interested in AI, cloud infrastructure and full-stack development.
+I'm a **3rd-year Computer Engineering student** at **Queen’s University**.
 
 ---
 
@@ -12,10 +12,10 @@ I'm a **3rd-year Computer Engineering student** at **Queen’s University** inte
 ---
 
 ### 💼 Experience
-- **Software Developer** – *Philer AI* 
-- **Software Quality Engineering Intern** – *Ford Motor Company*  
-- **User Acceptance Testing Intern** – *Ford Motor Company*  
-- **Software Developer** – *Laboratory for Ethnic Conflict Research, Queen's University*    
+- **ML Engineering** – *Empire Life*
+- **Software Quality Engineering** – *Ford Motor Company*
+- **Software Engineer** – *Philer AI*   
+- **Software Engineer** – *Laboratory for Ethnic Conflict Research*    
 
 ---
 
@@ -27,7 +27,7 @@ I'm a **3rd-year Computer Engineering student** at **Queen’s University** inte
 ---
 
 ### 💬 Outside of Tech:
-I enjoy **weight lifting**, **aquariums**, reading, and all-you-can-eat **sushi** 
+I enjoy **weight lifting**, **aquariums**, and **all-you-can-eat sushi** 
 
 
 <h2> 💻 &nbsp;My Tools:</h2>
