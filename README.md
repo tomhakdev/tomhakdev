@@ -5,8 +5,8 @@ I'm a **Queen’s University** Computer Engineering Student set to graduate in 2
 ---
 
 ### 🔭 Currently:
-- Founding Engineer at Lapis Research
-- ML Engineer & Data Scientist at Empire Life
+- Founding Engineer - *Lapis Research*
+- ML Engineer & Data Scientist - *Empire Life*
 
 ---
 
