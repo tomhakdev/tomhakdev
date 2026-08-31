@@ -5,8 +5,8 @@ I'm a **Queen’s University** Computer Engineering Student set to graduate in 2
 ---
 
 ### 🔭 Currently:
+- Software Engineer Intern - *Quandri*
 - Founding Engineer - *Lapis Research*
-- Incoming Software Engineer - *Quandri*
 
 ---
 
